@@ -1,2 +1,0 @@
-# collegeSportsWeb
-college project
